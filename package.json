@@ -10,7 +10,7 @@
     "node": "0.8.x"
   },
   "dependencies": {
-    "socket.io": "0.9.10",
+    "socket.io": "1.5.1",
     "node-static": "*"
   }
 }
